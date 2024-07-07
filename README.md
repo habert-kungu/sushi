@@ -1,5 +1,7 @@
 # SushiMan
 
+# ⚠️ **This Repo may not contain full features**
+
 ### <p><i>Welcome to SushiMan, the premier online destination for ordering fresh and delicious sushi. This project aims to provide a seamless experience for users to browse, customize, and order sushi for delivery or pickup. </i> </p> 
 
 ![Main](https://github.com/habert-kungu/sushi/blob/main/screenshots/sushi1.png)
