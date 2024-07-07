@@ -1,9 +1,9 @@
 # SushiMan
 
-Welcome to SushiMan, the premier online destination for ordering fresh and delicious sushi. This project aims to provide a seamless experience for users to browse, customize, and order sushi for delivery or pickup.
+### <p><i>Welcome to SushiMan, the premier online destination for ordering fresh and delicious sushi. This project aims to provide a seamless experience for users to browse, customize, and order sushi for delivery or pickup. </i> </p> 
 
-- [Main](/sreenshots/sushi1)
-
+![Main](https://github.com/habert-kungu/sushi/blob/main/screenshots/sushi1.png)
+  
 ## Table of Contents
 
 - [Features](#features)
@@ -14,10 +14,19 @@ Welcome to SushiMan, the premier online destination for ordering fresh and delic
 
 - **Browse Menu**: View a wide variety of sushi options with detailed descriptions and images.
 - **Custom Orders**: Customize sushi orders with preferred ingredients.
+
+ ![end](https://github.com/habert-kungu/sushi/blob/main/screenshots/sushi3.png)
+  
+ ![body](https://github.com/habert-kungu/sushi/blob/main/screenshots/sushi2.png)
+ 
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
-- [body](/sreenshots/sushi2)
-- [end](/sreenshots/sushi3)
+
+
+## Technologies Used
+- Html
+- Css
+- Javascript
 
 ## Installation
 
